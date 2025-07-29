@@ -15,7 +15,6 @@ const Header: React.FC = () => {
           Splash App
         </Link>
 
-        {/* Button Group */}
         <div className="flex gap-4">
           {
             !["/counter-app"].includes(pathname) ? (
